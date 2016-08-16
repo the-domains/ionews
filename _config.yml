@@ -1,0 +1,14 @@
+layout_spectrum: 0.7121847085654736
+typography_spectrum: 0.6978423073887825
+color:
+  brandStrength: 0.07444349303841591
+  lightness: 0.20768687990494072
+  saturation: 0.348797554615885
+  rhythmicContrast: 0.6579102678224444
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: ionews
